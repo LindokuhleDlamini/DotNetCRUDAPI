@@ -1,0 +1,15 @@
+/Users/fasta/Desktop/clean-architecture/DotNet-CRUD-API/Application/bin/Debug/net7.0/Application.deps.json
+/Users/fasta/Desktop/clean-architecture/DotNet-CRUD-API/Application/bin/Debug/net7.0/Application.dll
+/Users/fasta/Desktop/clean-architecture/DotNet-CRUD-API/Application/bin/Debug/net7.0/Application.pdb
+/Users/fasta/Desktop/clean-architecture/DotNet-CRUD-API/Application/bin/Debug/net7.0/Domain.dll
+/Users/fasta/Desktop/clean-architecture/DotNet-CRUD-API/Application/bin/Debug/net7.0/Domain.pdb
+/Users/fasta/Desktop/clean-architecture/DotNet-CRUD-API/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Users/fasta/Desktop/clean-architecture/DotNet-CRUD-API/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fasta/Desktop/clean-architecture/DotNet-CRUD-API/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/Users/fasta/Desktop/clean-architecture/DotNet-CRUD-API/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/Users/fasta/Desktop/clean-architecture/DotNet-CRUD-API/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/Users/fasta/Desktop/clean-architecture/DotNet-CRUD-API/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/Users/fasta/Desktop/clean-architecture/DotNet-CRUD-API/Application/obj/Debug/net7.0/Application.dll
+/Users/fasta/Desktop/clean-architecture/DotNet-CRUD-API/Application/obj/Debug/net7.0/refint/Application.dll
+/Users/fasta/Desktop/clean-architecture/DotNet-CRUD-API/Application/obj/Debug/net7.0/Application.pdb
+/Users/fasta/Desktop/clean-architecture/DotNet-CRUD-API/Application/obj/Debug/net7.0/ref/Application.dll

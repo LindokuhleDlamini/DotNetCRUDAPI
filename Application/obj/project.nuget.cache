@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "2efT6ccMQ21yEKasJHaI7ljlDY7uzscGCoj4VGITCqcOal1uxgn1gJXF5AwwZpjYMoU6NPIpijv9Cc19wTXemA==",
+  "success": true,
+  "projectFilePath": "/Users/fasta/Desktop/clean-architecture/DotNet-CRUD-API/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/fasta/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "/Users/fasta/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/fasta/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/fasta/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/fasta/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

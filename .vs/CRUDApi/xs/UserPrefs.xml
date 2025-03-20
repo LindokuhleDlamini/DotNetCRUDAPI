@@ -1,0 +1,62 @@
+﻿<Properties StartupConfiguration="{CB8B06F2-6026-433A-9DE3-6C4FF5299E8B}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Presentation/Program.cs">
+    <Files>
+      <File FileName="Presentation/Program.cs" Line="38" Column="45" />
+      <File FileName="Infrastructure/Data/AppDbContext.cs" />
+      <File FileName="Infrastructure/DependencyInjection.cs" Line="10" Column="3" />
+      <File FileName="Domain/Entities/User.cs" Line="1" Column="1" />
+      <File FileName="Tests/IntegrationTests/userControllerTests.cs" />
+      <File FileName="Presentation/Controllers/UserController.cs" />
+      <File FileName="Application/UseCases/UserUseCase.cs" Line="22" Column="10" />
+      <File FileName="Presentation/appsettings.json" Line="21" Column="13" />
+      <File FileName="Domain/Entities/Team.cs" Line="2" Column="26" />
+      <File FileName="Domain/Entities/League.cs" Line="2" Column="26" />
+      <File FileName="Application/UseCases/External/TeamUseCase.cs" Line="28" Column="56" />
+      <File FileName="Application/UseCases/External/LeagueUseCase.cs" Line="28" Column="60" />
+      <File FileName="Infrastructure/Data/MongoDbContext.cs" Line="13" Column="80" />
+      <File FileName="Tests/IntegrationTests/External/UseCases/TeamUseCasesTests.cs" Line="1" Column="1" />
+      <File FileName="Tests/IntegrationTests/External/UseCases/LeagueUseCasesTests.cs" Line="23" Column="6" />
+      <File FileName="Tests/IntegrationTests/External/Controllers/TeamControllerTests.cs" Line="1" Column="1" />
+      <File FileName="Tests/IntegrationTests/External/Controllers/LeagueControllerTests.cs" Line="6" Column="5" />
+      <File FileName="Application/Settings/SportsApiSettings.cs" Line="6" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CRUDApi" expanded="True">
+            <Node name="Application" expanded="True">
+              <Node name="Settings" expanded="True" />
+            </Node>
+            <Node name="Domain" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="External" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Data" expanded="True" />
+            </Node>
+            <Node name="Presentation" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Tests" expanded="True">
+              <Node name="IntegrationTests" expanded="True">
+                <Node name="External" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="UseCases" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Presentation PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
