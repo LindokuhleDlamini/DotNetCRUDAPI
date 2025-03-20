@@ -1,8 +1,8 @@
-#DotNet CRUD API
+# DotNet CRUD API
 
 This is a .NET Core 7 CRUD API built with Clean Architecture, Entity Framework Core, and JWT authentication. It provides endpoints for managing users, teams, and leagues, with integration to an external sports API for fetching data.
 
-##Features
+## Features
 
 User Management: Create, read, update, and delete users.
 
@@ -16,7 +16,7 @@ Clean Architecture: Separation of concerns with Domain, Application, Infrastruct
 
 Integration Testing: Includes tests for external API integration.
 
-##Technologies Used
+## Technologies Used
 .NET Core 7
 
 Entity Framework Core
